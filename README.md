@@ -1,5 +1,5 @@
 # Java-Swing-Project_-Book-List-
-A GUI Application created using java swing framework where users can select add book with the corresponding genre 
+
 This project is a standalone desktop application developed in Java using the Swing library to efficiently collect, display, and manage a list of books and their categories.
 
 Key Features & Functionality
